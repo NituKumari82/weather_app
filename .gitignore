@@ -1,0 +1,7 @@
+
+.env
+**/.env
+weather_api/.env
+node_modules
+dist
+
